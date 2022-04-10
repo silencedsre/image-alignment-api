@@ -1,0 +1,1 @@
+### The aligned images are saved in this location
